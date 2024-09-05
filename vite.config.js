@@ -13,6 +13,5 @@ export default defineConfig({
             refresh: true,
         }),
         react(),
-        vercel(),
     ],
 });
